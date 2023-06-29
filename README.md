@@ -40,13 +40,14 @@ Here are some ideas to get you started:
 - **`Deepfake Detection Challenge`**: Identify videos with facial or voice manipulations (246/2265) [[overview]](https://www.kaggle.com/competitions/deepfake-detection-challenge)
 
 
-### Dacon
-- **`profile`**: [[profile]](https://dacon.io/myprofile/106480/home)
-- **`ranking`**: present (4rd) / best (1st)
-
-- 🥇 **`카메라 이미지 품질 향상 AI 경진대회`**: [[overview]](https://dacon.io/competitions/official/235746/overview/description)
-- 🥇 **`유방암의 임파선 전이 예측 AI 경진대회`**: [[overview]](https://dacon.io/competitions/official/236011/overview/description) [[src]](https://github.com/hyeonho1028/Prediction-of-breast-cancer-lymph-node-metastasis)
+### Dacon [(profile)](https://dacon.io/myprofile/106480/home)
+**`ranking`**: present (4rd) / best (1st)
+- 🥇 **`카메라 이미지 품질 향상 AI 경진대회`**: rank (1/1257) [[overview]](https://dacon.io/competitions/official/235746/overview/description)
+- 🥇 **`유방암의 임파선 전이 예측 AI 경진대회`**: rank (2/1226) [[overview]](https://dacon.io/competitions/official/236011/overview/description) [[src]](https://github.com/hyeonho1028/Prediction-of-breast-cancer-lymph-node-metastasis)
+- 🥇 **`진동데이터 활용 충돌체 탐지 AI 경진대회`**: rank (2/820) [[overview]](https://dacon.io/competitions/official/235614/overview/description) [[src]](https://github.com/hyeonho1028/Collider-Detection-using-Vibration-data)
+- 🥇 **`전력사용량 예측 AI 경진대회`**: rank (3/2203) [[overview]](https://dacon.io/competitions/official/235736/overview/description) [[srtc]](https://github.com/hyeonho1028/Solar-power-generation-forecast)
 - etc..
 
-### Others
+
+<!-- ### Others -->
 
