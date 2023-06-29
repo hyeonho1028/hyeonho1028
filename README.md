@@ -16,20 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ## 💻 I’m currently working on ...
+### kakaobank
+- **`WFMS`**: Workforce Forecast Management System, Call volume forecast (Python, Pytorch)
+- **`BI Index Forecast`**: Clustering of BI-Index and development of universal time-series models (Python)
+- **`MLOps`**: MLOps Arch. Build (Python)
 
+### SK C&C
+- **`AutoML Development`**: ML Pipeline Component Algorithm Design and Development (Python)
+- **`Drug Target Interaction & De novo design`**: Generate Molecular Formula using RL (Python, Pytorch)
 
 ## ⚒️ My projects
 ### Paper
 - **`RSA-CFN`**: Residual Self-Attention Cross Fusion Network (RSA-CFN) [[github]](https://github.com/hyeonho1028/RSA-CFN)
 
-
-
-
-
-
-
-
-## 🏆 Competition
+## 🏅 Competition
 ### Kaggle
 - 🥈 **`Instant Gratification`**: A synchronous Kernels-only competition (32/1818) [[overview]](https://www.kaggle.com/competitions/instant-gratification) [[src]](https://www.kaggle.com/code/hyeonho/32th-solution-public-0-97513-private-0-97565)
 - 🥈 **`Google Brain - Ventilator Pressure Prediction`**: Simulate a ventilator connected to a sedated patient's lung (76/2605) [[overview]](https://www.kaggle.com/competitions/ventilator-pressure-prediction)
@@ -42,7 +42,11 @@ Here are some ideas to get you started:
 
 ### Dacon
 - **`profile`**: [[profile]](https://dacon.io/myprofile/106480/home)
-- **`ranking`**: prevent (4rd) / best (1st)
+- **`ranking`**: present (4rd) / best (1st)
+
+- 🥇 **`카메라 이미지 품질 향상 AI 경진대회`**: [[overview]](https://dacon.io/competitions/official/235746/overview/description)
+- 🥇 **`유방암의 임파선 전이 예측 AI 경진대회`**: [[overview]](https://dacon.io/competitions/official/236011/overview/description) [[src]](https://github.com/hyeonho1028/Prediction-of-breast-cancer-lymph-node-metastasis)
+- etc..
 
 ### Others
 
