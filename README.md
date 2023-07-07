@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## ⚒️ My projects
 ### Paper
-- **`RSA-CFN`**: Residual Self-Attention Cross Fusion Network (RSA-CFN) [[github]](https://github.com/hyeonho1028/RSA-CFN)
+- **`RSA-CFN`**: Residual Self-Attention Cross Fusion Network (RSA-CFN) [[github]](https://github.com/hyeonho1028/RSA-CFN) [[Paper]](https://github.com/hyeonho1028/RSA-CFN/files/11973717/20-727.pdf)
 
 ## 🏅 Competition
 ### Kaggle
