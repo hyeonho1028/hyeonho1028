@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ## 💻 I’m currently working on ...
 ### kakaobank
+- **`LLM`**: SQL AI assistant w/ Text2SQL (RAG, LLM, SFT)
 - **`WFMS`**: Workforce Forecast Management System, Call volume forecast (Python, Pytorch)
-- **`BI Index Forecast`**: Clustering of BI-Index and development of universal time-series models (Python)
+- **`BI Index Forecast`**: Segmentations of BI-Index and development of universal time-series models (Python)
 - **`MLOps`**: MLOps Arch. Build (Python)
 
 ### SK C&C
